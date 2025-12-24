@@ -1,5 +1,5 @@
 {
-  "name": "saweria-roblox-bridge",
+  "name": "saweria-vercel.com",
   "version": "1.0.0",
   "description": "Bridge Saweria donations to Roblox game",
   "main": "server.js",
@@ -14,3 +14,4 @@
     "node": ">=18.x"
   }
 }
+
